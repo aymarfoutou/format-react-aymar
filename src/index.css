@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pad{
+  background: #dbdce4;
+  padding: 30px 20px;
+  margin-bottom: 50px;
+  border-radius: 18px;
+  list-style: none;
+}
+
+.form-control{
+  width: 70px;
+    display: inline-block;
+    padding-top: 3px;
+    margin-right: 8px;
+}
+.inputs{margin: 10px 0 20px;}
+.ul, ul{padding: 0;}
+
+.h1, h1 {
+  font-size: 2.5rem;
+  text-align: center;
+  padding: 18px;
+}
+
